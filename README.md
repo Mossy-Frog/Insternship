@@ -46,3 +46,8 @@ The project is divided in 4 parts:
   -> Enriching WGCNA transcriptomic model: added value of genomic data
   
   -> Combining the three biological layers
+
+
+
+
+  <span style="color:blue">some *This is Blue italic.* text</span>
