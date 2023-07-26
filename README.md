@@ -1,4 +1,4 @@
-</style>
+
 # InsternshipIrba
 This repositery compiles most of Maxence LECHEMIA's work during his internship in the IRBA.
 The goal of the internship was to study _Burkholderia Pseudoomallei_ antibiotic resistance mechanisms using bioinformatics tools. 
@@ -9,7 +9,7 @@ The project is divided in 4 parts:
 
 
 
-#Transcriptomic:
+[x]Transcriptomic:
 
   -> Annotation enrichment using the transcriptomic dataset and a GFF (General file format)
   
@@ -20,7 +20,7 @@ The project is divided in 4 parts:
 
 
 
-#Proteomic:
+[x]Proteomic:
 
   ->Test of the proteomic dataset
   
@@ -29,7 +29,7 @@ The project is divided in 4 parts:
 
 
   
-#Genomic:
+[x]Genomic:
 
   -> Extraction from breseq output 
   
@@ -38,7 +38,7 @@ The project is divided in 4 parts:
 
 
   
-#Multi-Omic:
+[x]Multi-Omic:
 
   -> Single-omic study on WGCNA: a validation of the process with transcriptomic
   
@@ -48,17 +48,5 @@ The project is divided in 4 parts:
   
   -> Combining the three biological layers
 
-
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
-# TODOs:
-
-- <r>TODO:</r> Important thing to do
-- <o>TODO:</o> Less important thing to do
-- <g>DONE:</g> Breath deeply and improve karma
 
 
