@@ -9,44 +9,44 @@ The project is divided in 4 parts:
 
 
 
-"[x]"Transcriptomic:
+# Transcriptomic:
 
-  -> Annotation enrichment using the transcriptomic dataset and a GFF (General file format)
+  - Annotation enrichment using the transcriptomic dataset and a GFF (General file format)
   
-  -> Use of DESeq2 package to analyse gene expression and create heatmaps
+  - Use of DESeq2 package to analyse gene expression and create heatmaps
   
-  -> Automation of the DESeq2 pipeline for future uses
+  - Automation of the DESeq2 pipeline for future uses
 
 
 
 
-[x]Proteomic:
+# Proteomic:
 
-  ->Test of the proteomic dataset
+  - Test of the proteomic dataset
   
-  -> Exploratory analysis
-
-
-
-  
-[x]Genomic:
-
-  -> Extraction from breseq output 
-  
-  -> Translation of useful data into a table of counts of mutations
+  - Exploratory analysis
 
 
 
   
-[x]Multi-Omic:
+# Genomic:
 
-  -> Single-omic study on WGCNA: a validation of the process with transcriptomic
+  - Extraction from breseq output 
   
-  -> Enriching WGCNA transcriptomic model: added value of proteomic data
+  - Translation of useful data into a table of counts of mutations
+
+
+
   
-  -> Enriching WGCNA transcriptomic model: added value of genomic data
+# Multi-Omic:
+
+  - Single-omic study on WGCNA: a validation of the process with transcriptomic
   
-  -> Combining the three biological layers
+  - Enriching WGCNA transcriptomic model: added value of proteomic data
+  
+  - Enriching WGCNA transcriptomic model: added value of genomic data
+  
+  - Combining the three biological layers
 
 
 
