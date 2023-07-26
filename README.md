@@ -9,7 +9,7 @@ The project is divided in 4 parts:
 
 
 
-[x]Transcriptomic:
+"[x]"Transcriptomic:
 
   -> Annotation enrichment using the transcriptomic dataset and a GFF (General file format)
   
