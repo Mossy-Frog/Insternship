@@ -1,7 +1,7 @@
 
 # InsternshipIrba
 This repositery compiles most of Maxence LECHEMIA's work during his internship in the IRBA.
-The goal of the internship was to study _Burkholderia Pseudoomallei_ antibiotic resistance mechanisms using bioinformatics tools. 
+The goal of the internship was to study _Burkholderia Pseudomallei_ antibiotic resistance mechanisms using bioinformatics tools. 
 
 Transcriptomics and multi-omics packages were used during the project, such as DESEQ2 (R) and WGCNA (R)
 
