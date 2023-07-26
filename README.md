@@ -9,7 +9,7 @@ The project is divided in 4 parts:
 
 
 
-# Transcriptomic:
+## Transcriptomic:
 
   - Annotation enrichment using the transcriptomic dataset and a GFF (General file format)
   
@@ -20,7 +20,7 @@ The project is divided in 4 parts:
 
 
 
-# Proteomic:
+## Proteomic:
 
   - Test of the proteomic dataset
   
@@ -29,7 +29,7 @@ The project is divided in 4 parts:
 
 
   
-# Genomic:
+## Genomic:
 
   - Extraction from breseq output 
   
@@ -38,7 +38,7 @@ The project is divided in 4 parts:
 
 
   
-# Multi-Omic:
+## Multi-Omic:
 
   - Single-omic study on WGCNA: a validation of the process with transcriptomic
   
