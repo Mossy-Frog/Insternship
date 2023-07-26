@@ -37,7 +37,7 @@ The project is divided in 4 parts:
 
 
   
-#Multi-Omic
+#Multi-Omic:
 
   -> Single-omic study on WGCNA: a validation of the process with transcriptomic
   
@@ -47,5 +47,17 @@ The project is divided in 4 parts:
   
   -> Combining the three biological layers
 
+
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
+# TODOs:
+
+- <r>TODO:</r> Important thing to do
+- <o>TODO:</o> Less important thing to do
+- <g>DONE:</g> Breath deeply and improve karma
 
 
