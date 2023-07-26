@@ -50,4 +50,4 @@ The project is divided in 4 parts:
 
 
 
-  <span style="color:blue">some *This is Blue italic.* text</span>
+  <span style="color:blue">some *This is Blue italic.* text</span> a
